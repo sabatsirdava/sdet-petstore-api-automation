@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+*.class
+.DS_Store
+local.properties
+*.log
+reports/
+out/
